@@ -1,6 +1,7 @@
 # c_laboratory_work
 
 Principles:
+
 0. Don't tread on me.
 1. Don't repeat yourself.
 2. Keep it simple, stupid.
