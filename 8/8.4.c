@@ -11,7 +11,7 @@ int liter(char lit){
 
 int main(){
     int b,l;
-    char s[250];//ладно пусть будет строка
+    char s[250];
     long long r=0;
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
